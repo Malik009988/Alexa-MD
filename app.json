@@ -2,7 +2,7 @@
   "name": "Alexa MD",
   "description": "Alexa MD - Simple WhatsApp Multi Device Bot",
   "keywords": ["whatsapp-bot", "multi-device", "shefin", "alexa-md", "alexa"],
-  "repository": "https://github.com/5hefin/Alexa-MD",
+  "repository": "https://github.com/Malik009988/Alexa-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
